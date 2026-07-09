@@ -1,1 +1,7 @@
-<Solution />
+<Solution>
+  <Folder Name="/GenelNotlar/">
+    <File Path="WhatsCSharp.txt" />
+    <File Path="WhatsDotNet.txt" />
+  </Folder>
+  <Project Path="EscapeCharacters/EscapeCharacters.csproj" Id="37065289-f74f-416b-bd10-80c91a020384" />
+</Solution>

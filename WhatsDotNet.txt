@@ -1,0 +1,9 @@
+.Net, Microsoft tarafından geliştirilen bir yazılım geliştirme platformudur. 
+Şunları sağlar.
+
+✓ Ortak bir çalışma ortamı (runtime <-> CLR)
+✓ Zengin kütüphaneler (Dosya, veritabanı, ağ, web, UI vb.)
+✓ Birden fazla dili destekler. (C#, F#, VB.NET gibi)
+✓ Yazdığımız kodun derlenmesini, çalıştırılmasını, güvenli, hızlı ve taşınabilir
+olmasını sağlayan tam bir yazılım geliştirme ekosistemidir.
+
