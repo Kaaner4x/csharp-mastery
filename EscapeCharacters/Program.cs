@@ -15,8 +15,9 @@
             Console.WriteLine("Bu bir uyarı \asesidir");
             Console.WriteLine("Metinsel ifadeyi sonlandırır ya da null karakteri ekler: \0");
 
-            /* Ek olarak string başında '@' kullanarak kaçış karakterlerini
-               devre dışı bırakabiliriz.
+            /* Ek olarak string başında '@' (verbatim string) kullanarak kaçış
+               devre dışı bırakabiliriz. Kaçış karakterleri ve verbatim string
+               genellikle dosya yolunu belirtmek için kullanılır.
             */
         }
     }
