@@ -1,0 +1,4 @@
+1. Notlar
+2. Escape Characters
+3. Variables
+4. Type Casting

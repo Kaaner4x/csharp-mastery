@@ -4,5 +4,6 @@
     <File Path="WhatsDotNet.txt" />
   </Folder>
   <Project Path="EscapeCharacters/EscapeCharacters.csproj" Id="37065289-f74f-416b-bd10-80c91a020384" />
+  <Project Path="TypeCasting/TypeCasting.csproj" Id="bc8521b9-f667-436b-b98c-1d7a10c6ba81" />
   <Project Path="Variables/Variables.csproj" Id="6529fdd9-f085-4b44-af69-d8e948169a28" />
 </Solution>

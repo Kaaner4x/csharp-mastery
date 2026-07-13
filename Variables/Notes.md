@@ -65,3 +65,18 @@ const double PI = 3.14159;
 int x, y, z;
 x = y = z = 10; 
 ```
+
+### Sabitler (Constants)
+
+Programın çalışma süresi boyunca değerleri asla değiştirilemeyen ve değiştirilmesi teklif dahi edilemeyen yapılardır. Kodun okunabilirliğini artırmak ve sihirli sayıları (magic numbers) engellemek için kullanılırlar. C#'ta sabitler iki anahtar kelime ile yönetilir:
+
+#### 1. Compile-Time Constants (`const`)
+Değerleri daha kod derlenirken (compile-time) belirlenen sabitlerdir. 
+* **Zorunlu İlk Değer:** Tanımlandığı satırda değeri atanmalıdır. Sonradan değer atanamaz.
+* **Statik Davranış:** Örtük olarak (implicitly) `static`tir. Nesne oluşturmadan doğrudan sınıf adı üzerinden erişilir (Başına ayrıca `static` yazılması hata verir).
+* **İsimlendirme Standardı:** Yazılım standartı olarak `UPPER_SNAKE_CASE` ile tanımlanırlar.
+* **Kısıtlama:** Sadece ilkel tipler (`int`, `string`, `double`, `bool` vb.) `const` olabilir.
+
+```csharp
+const double PI = 3.14159;
+const string API_KEY = "XYZ123";

@@ -46,6 +46,8 @@
                 snake_case
                 UPPER_SNAKE_CASE
              */
+
+            // Sabitler
         }
     }
 }
