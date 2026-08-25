@@ -3,8 +3,24 @@
     <File Path="WhatsCSharp.txt" />
     <File Path="WhatsDotNet.txt" />
   </Folder>
-  <Project Path="EscapeCharacters/EscapeCharacters.csproj" Id="37065289-f74f-416b-bd10-80c91a020384" />
-  <Project Path="NullableType/NullableType.csproj" Id="8c46b656-5346-4894-97a7-938c1e09da5d" />
-  <Project Path="TypeCasting/TypeCasting.csproj" Id="bc8521b9-f667-436b-b98c-1d7a10c6ba81" />
-  <Project Path="Variables/Variables.csproj" Id="6529fdd9-f085-4b44-af69-d8e948169a28" />
+  <Project Path="01_VariablesAndTypes/01_VariablesAndTypes.csproj" />
+  <Project Path="02_OperatorsAndPatternMatching/02_OperatorsAndPatternMatching.csproj" />
+  <Project Path="03_ControlFlowAndLoops/03_ControlFlowAndLoops.csproj" />
+  <Project Path="04_ArraysAndCollections/04_ArraysAndCollections.csproj" />
+  <Project Path="05_MethodsAndTuples/05_MethodsAndTuples.csproj" />
+  <Project Path="06_ObjectOrientedProgramming/06_ObjectOrientedProgramming.csproj" />
+  <Project Path="07_InheritanceAndPolymorphism/07_InheritanceAndPolymorphism.csproj" />
+  <Project Path="08_Interfaces/08_Interfaces.csproj" />
+  <Project Path="09_StructsAndRecords/09_StructsAndRecords.csproj" />
+  <Project Path="10_ExceptionHandling/10_ExceptionHandling.csproj" />
+  <Project Path="11_Generics/11_Generics.csproj" />
+  <Project Path="12_DelegatesAndEvents/12_DelegatesAndEvents.csproj" />
+  <Project Path="13_LINQ/13_LINQ.csproj" />
+  <Project Path="14_AsynchronousProgramming/14_AsynchronousProgramming.csproj" />
+  <Project Path="15_ReflectionAndAttributes/15_ReflectionAndAttributes.csproj" />
+  <Project Path="16_MemoryManagement/16_MemoryManagement.csproj" />
+  <Project Path="17_ConcurrencyAndMultithreading/17_ConcurrencyAndMultithreading.csproj" />
+  <Project Path="18_SolidPrinciples/18_SolidPrinciples.csproj" />
+  <Project Path="19_DesignPatterns/19_DesignPatterns.csproj" />
+  <Project Path="20_CSharp12And13Features/20_CSharp12And13Features.csproj" />
 </Solution>
